@@ -1,0 +1,178 @@
+[
+  {
+    "Entity": "price_item",
+    "OldTable": "price_item",
+    "NewTable": "price_item",
+    "OldPk": "price_id",
+    "NewPk": "price_id",
+    "GenerateNewId": false,
+    "Columns": [
+      {
+        "Old": "price_id",
+        "New": "price_id"
+      },
+      {
+        "Old": "organization_id",
+        "New": "organization_id"
+      },
+      {
+        "Old": "org_branch_reg_id",
+        "New": "org_branch_id"
+      },
+      {
+        "Old": "price_declaration_no",
+        "New": "price_declaration_no"
+      },
+      {
+        "Old": "price_declaration_year",
+        "New": "price_declaration_year"
+      },
+      {
+        "Old": "date_effective",
+        "New": "date_effective"
+      },
+      {
+        "Old": "item_id",
+        "New": "item_id"
+      },
+      {
+        "Old": "unit_id",
+        "New": "unit_id"
+      },
+      {
+        "Old": "crnt_actl_prc_sd",
+        "New": "crnt_actl_prc_sd"
+      },
+      {
+        "Old": "prpsd_actl_prc_sd",
+        "New": "prpsd_actl_prc_sd"
+      },
+      {
+        "Old": "sd_amount",
+        "New": "sd_amount"
+      },
+      {
+        "Old": "crnt_actl_prc_vat",
+        "New": "crnt_actl_prc_vat"
+      },
+      {
+        "Old": "prpsd_actl_prc_vat",
+        "New": "prpsd_actl_prc_vat"
+      },
+      {
+        "Old": "wholesale_prc_sd_vat",
+        "New": "wholesale_prc_sd_vat"
+      },
+      {
+        "Old": "retail_prc_sd_vat",
+        "New": "retail_prc_sd_vat"
+      },
+      {
+        "Old": "audit_seq_no",
+        "New": "audit_seq_no"
+      },
+
+      {
+        "Old": "audit_user_id",
+        "New": "audit_user_id"
+      },
+      {
+        "Old": "audit_date",
+        "New": "audit_date"
+      },
+      {
+        "Old": "is_deleted",
+        "New": "is_deleted"
+      },
+      {
+        "Old": "date_insert",
+        "New": "date_insert"
+      },
+      {
+        "Old": "date_update",
+        "New": "date_update"
+      },
+      {
+        "Old": "user_id_insert",
+        "New": "user_id_insert"
+      },
+      {
+        "Old": "user_id_update",
+        "New": "user_id_update"
+      },
+      {
+        "Old": "cnfrmd_actl_prc_sd",
+        "New": "cnfrmd_actl_prc_sd"
+      },
+      {
+        "Old": "cnfrmd_sd_amount",
+        "New": "cnfrmd_sd_amount"
+      },
+      {
+        "Old": "cnfrmd_actl_prc_vat",
+        "New": "cnfrmd_actl_prc_vat"
+      },
+      {
+        "Old": "cnfrmd_wholesale_prc",
+        "New": "cnfrmd_wholesale_prc"
+      },
+      {
+        "Old": "cnfrmd_retail_prc",
+        "New": "cnfrmd_retail_prc"
+      },
+      {
+        "Old": "confirmation_date",
+        "New": "confirmation_date"
+      },
+      {
+        "Old": "is_nbr_confirmed",
+        "New": "is_nbr_confirmed"
+      },
+      {
+        "Old": "prpsd_actl_prc",
+        "New": "prpsd_actl_prc"
+      },
+      {
+        "Old": "cnfrmd_actl_prc",
+        "New": "cnfrmd_actl_prc"
+      },
+      {
+        "Old": "type",
+        "New": "type"
+      },
+      {
+        "Old": "total_price",
+        "New": "total_price"
+      },
+      {
+        "Old": "agreement_no",
+        "New": "agreement_no"
+      },
+      {
+        "Old": "trade_price_value",
+        "New": "trade_price_value"
+      },
+      {
+        "Old": "trade_price_value_pct",
+        "New": "trade_price_value_pct"
+      },
+      {
+        "Old": "production_quantity",
+        "New": "production_quantity"
+      },
+      {
+        "Old": "property_id",
+        "New": "property_id"
+      },
+      {
+        "Old": "health_surcharge",
+        "New": "health_surcharge"
+      },
+      {
+        "Old": "stick_quantity",
+        "New": "stick_quantity"
+      }
+    ]
+  }
+
+]
