@@ -14,6 +14,7 @@ D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigrati
 D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigration.AssemblyInfoInputs.cache
 D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigration.AssemblyInfo.cs
 D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigration.csproj.CoreCompileInputs.cache
+D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigration.sourcelink.json
 D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigrat.C87ABA58.Up2Date
 D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\DbMigration.dll
 D:\VATPrompt_Dev\DB_Migration\DbMigration\DbMigration\obj\Debug\net8.0\refint\DbMigration.dll

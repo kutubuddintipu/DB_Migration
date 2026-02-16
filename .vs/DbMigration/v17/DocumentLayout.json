@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\tables.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\tablemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\tablemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\migrationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\migrationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\tablemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\tablemigrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\idmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\idmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|d:\\vatprompt_dev\\db_migration\\dbmigration\\dbmigration\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328E0B41-775E-4942-B8B8-B3FBA4B8DE6C}|DbMigration\\DbMigration.csproj|solutionrelative:dbmigration\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,27 +56,27 @@
               "RelativeDocumentMoniker": "DbMigration\\tables.json",
               "ToolTip": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\tables.json",
               "RelativeToolTip": "DbMigration\\tables.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-04T05:58:30.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Models.cs",
               "DocumentMoniker": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\Models.cs",
               "RelativeDocumentMoniker": "DbMigration\\Models.cs",
               "ToolTip": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\Models.cs",
               "RelativeToolTip": "DbMigration\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T05:58:08.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Db.cs",
               "DocumentMoniker": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\Db.cs",
               "RelativeDocumentMoniker": "DbMigration\\Db.cs",
@@ -95,20 +95,20 @@
               "RelativeDocumentMoniker": "DbMigration\\IdMapService.cs",
               "ToolTip": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\IdMapService.cs",
               "RelativeToolTip": "DbMigration\\IdMapService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T06:01:14.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TableMigrator.cs",
               "DocumentMoniker": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\TableMigrator.cs",
               "RelativeDocumentMoniker": "DbMigration\\TableMigrator.cs",
               "ToolTip": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\TableMigrator.cs",
               "RelativeToolTip": "DbMigration\\TableMigrator.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwHQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwBIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T05:51:46.792Z",
               "EditorCaption": ""
@@ -128,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\Program.cs",
               "RelativeDocumentMoniker": "DbMigration\\Program.cs",
               "ToolTip": "D:\\VATPrompt_Dev\\DB_Migration\\DbMigration\\DbMigration\\Program.cs",
               "RelativeToolTip": "DbMigration\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-04T05:26:37.788Z",
               "EditorCaption": ""

@@ -16,7 +16,7 @@ namespace DbMigration
         {
             var selectSql =
                 $"SELECT {map.OldPk}, {string.Join(",", map.Columns.Select(c => c.Old))} " +
-                $"FROM {map.OldTable} ORDER BY price_id";
+                $"FROM {map.OldTable} ORDER BY trns_treasury_detail_id";
 
             using var cmd = new NpgsqlCommand(selectSql, oldDb);
             using var reader = cmd.ExecuteReader();
